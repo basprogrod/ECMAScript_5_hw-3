@@ -119,7 +119,7 @@ body {
 }
 
 #section-1.active, #section-2.active {
-	display: block;
+	/*display: block;*/
 }
 
 .allInfo {
